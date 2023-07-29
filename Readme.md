@@ -40,4 +40,4 @@ En el código proporcionado se muestra un ejemplo de cómo descargar y visualiza
 
 ---
 
-*Este proyecto es parte del trabajo de espectroscopía con Astroquery y SDSS realizado por [TuNombre](https://github.com/TuNombre).*
+*Este proyecto es parte del trabajo de espectroscopía con Astroquery y SDSS realizado por [Miguel](https://github.com/mapsm12).*
