@@ -24,7 +24,7 @@ El código proporciona las siguientes funcionalidades:
 
 ## Cómo usar
 
-1. Abre el archivo `spectroscopy.py` y proporciona las coordenadas RA y Dec de la estrella de la que deseas obtener el espectro. También puedes ajustar el radio de búsqueda y la cantidad de espectros a descargar (si hay múltiples espectros disponibles en la región especificada).
+1. Abre el archivo `sdssSpectrum.pynb` y proporciona las coordenadas RA y Dec de la estrella de la que deseas obtener el espectro. También puedes ajustar el radio de búsqueda y la cantidad de espectros a descargar (si hay múltiples espectros disponibles en la región especificada).
 
 2. Ejecuta el código en tu entorno de Python.
 
